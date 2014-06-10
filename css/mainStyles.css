@@ -1,0 +1,9 @@
+.logo{
+    float: left;
+    height: 30px;
+    width: 30px;
+    margin-top: -5px;
+    margin-bottom: -1px;
+    margin-right: 9px;
+    border-radius: 3px;
+}
